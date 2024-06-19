@@ -1,4 +1,4 @@
-# OBSERVER
+# OBSERVER DESIGN PATTERN
 
 ## WHAT IS THE PROBLEM?
 
@@ -7,3 +7,6 @@ We should allow both adding new subscribers and cancelling subscription as well.
 
 
 ## UML
+<p align="center">
+  <img src="uml-diagram.jpg" alt="UML DIAGRAM" width="1000">
+</p>
