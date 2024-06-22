@@ -18,9 +18,7 @@ class TextEditor {
   }
 
   restore(state) {
-      if (state) {
           this.content = state.getContent();
-      }
   }
 
   getContent() {
