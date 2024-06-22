@@ -81,7 +81,7 @@ editor.restore(history.undo());
 console.log(editor.getContent()); // Output: Version 1
 
 editor.restore(history.redo());
-console.log(editor.getContent()); // Output: Version 2
+console.log(editor.getContent()); // Output: Version 1
 
 editor.restore(history.redo());
-console.log(editor.getContent()); // Output: Version 3
+console.log(editor.getContent()); // Output: Version 2
